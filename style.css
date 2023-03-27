@@ -1,0 +1,70 @@
+span{
+    margin: 15px;
+    font-size: 20px;
+}
+header{
+    height: 250px;
+    background-image: url(./image/burger-sandwich-header\ \(1\).jpg);
+}
+h1{
+    text-align: left;
+    color: white;
+    line-height: 250px;
+    margin: 0;
+    float: left;
+}
+nav{ 
+    color:white;
+    justify-content: end;
+    align-items: end;
+    position: sticky;
+    top: ;
+}
+#ak{
+    margin-left: 500px;
+}
+h2{
+    text-align: center;
+    color: black;
+}
+section{
+    float: left;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 15px;
+    background-color: rgb(216, 197, 173);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+div{
+    float: left;
+    height: 400px;
+    width: 400px;
+    align-items: center;
+    justify-content: center;
+    background-color: azure;
+    border: 2px solid black;
+    text-align: center;
+    margin: 5px;
+    padding: 2px;
+}
+img{
+    height: 200px;
+    width: 175px;
+    text-align: center;
+}
+button{
+    background-color: red;
+}
+h3{
+    text-decoration: underline;
+    text-shadow: 4px 5px 6px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(77, 190, 77);
+    color: white;
+}
+
+
+   
